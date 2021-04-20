@@ -2,7 +2,7 @@
 
 ### Hi there I'm Igor Mendes :lemon:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormm/){:target="_blank"}
+[!(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormm/){:target="_blank"}
 
 Seja Bem-vindo ao meu mundo.
 
