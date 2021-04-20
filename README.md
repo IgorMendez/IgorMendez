@@ -25,4 +25,4 @@ Markdown    19 mins             █░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-⭐️ From [LikeRainDay](https://github.com/LikeRainDay)
+⭐️ From [LikeRainDay](https://github.com/IgorMendez)
