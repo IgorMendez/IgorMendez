@@ -2,10 +2,9 @@
 
 ### Hi there I'm Igor Mendes :lemon:
 
-[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/qq_15807167)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:houshuai0816@gmail.com)](mailto:houshuai0816@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igormm/)
 
-🚀Welcome to the rain planet🌎
+Seja Bem-vindo ao meu mundo.
 
 ![IgorMendez github stats](https://i.imgur.com/qpFBbmO.gif)
 
