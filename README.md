@@ -1,8 +1,8 @@
 <img align='right' src="https://media-exp1.licdn.com/dms/image/C4E16AQHavakdDtnYww/profile-displaybackgroundimage-shrink_350_1400/0/1615345252999?e=1624492800&v=beta&t=OXXn1bBIJQKux4dc-_etFfuUS6xTKb3AJQ-3xGESMOQ" width="350px">
 
 ### Hi there I'm Igor Mendes :lemon:
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/igormm/" width="100px">
+<a href="https://www.linkedin.com/in/igormm/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"></a>
 
 Seja Bem-vindo ao meu mundo.
 
