@@ -23,6 +23,3 @@ YAML        21 mins             ██░░░░░░░░░░░░░░
 Markdown    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
 ```
 <!--END_SECTION:waka-->
-
-
-⭐️ From [LikeRainDay](https://github.com/IgorMendez)
