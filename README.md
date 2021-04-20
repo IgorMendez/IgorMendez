@@ -2,11 +2,11 @@
 
 ### Hi there I'm Igor Mendes :lemon:
 <a href="https://www.linkedin.com/in/igormm/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70px"></a>
 
 Seja Bem-vindo ao meu mundo.
 
-![IgorMendez github stats](https://i.imgur.com/qpFBbmO.gif)
+![IgorMendez github stats](https://i.imgur.com/qpFBbmO.gif/200x100)
 
 
 📊 **Stats**
