@@ -1,6 +1,6 @@
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C4E16AQHavakdDtnYww/profile-displaybackgroundimage-shrink_350_1400/0/1615345252999?e=1624492800&v=beta&t=OXXn1bBIJQKux4dc-_etFfuUS6xTKb3AJQ-3xGESMOQ" width="350px">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C4E16AQHavakdDtnYww/profile-displaybackgroundimage-shrink_350_1400/0/1615345252999?e=1624492800&v=beta&t=OXXn1bBIJQKux4dc-_etFfuUS6xTKb3AJQ-3xGESMOQ" width="400px">
 
-### Hi there I'm Igor Mendes :lemon:
+### Hi there I'm Igor Mendes :rocket:
 
 
 <a href="https://www.linkedin.com/in/igormm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80px"></a>
@@ -14,4 +14,7 @@ Seja Bem-vindo ao meu mundo.
 
 📊 **Stats**
 
-<img align='center'   width="300" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align='left'   width="300" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+[![My code time](https://github-readme-stats.vercel.app/api/wakatime?username=IgorMendez)](https://github.com/anuraghazra/github-readme-stats)
+
