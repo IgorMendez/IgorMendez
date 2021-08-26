@@ -1,4 +1,4 @@
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C4E16AQHavakdDtnYww/profile-displaybackgroundimage-shrink_350_1400/0/1615345252999?e=1624492800&v=beta&t=OXXn1bBIJQKux4dc-_etFfuUS6xTKb3AJQ-3xGESMOQ" width="400px">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C4E16AQHavakdDtnYww/profile-displaybackgroundimage-shrink_350_1400/0/1615345252999?e=1624492800&v=beta&t=OXXn1bBIJQKux4dc-_etFfuUS6xTKb3AJQ-3xGESMOQ" width="300px">
 
 ### Olá, me chamo Igor Mendes de Mattos e estou em busca de oportunidades nessa nova caminhada. :rocket:
 
