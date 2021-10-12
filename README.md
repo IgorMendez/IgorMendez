@@ -1,8 +1,63 @@
-### Olá, me chamo Igor Mendes de Mattos e estou em busca de oportunidades nessa nova caminhada. :rocket:
+<a href="https://github.com/IgorMendez" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/igor_m_m/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.facebook.com/igor.mendesdemattos/" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/igormm/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
-<a href="https://www.linkedin.com/in/igormm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80px"></a>
-<a href="https://wa.me/14996671135" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="80px"></a>
+<br />
+<br />
 
-📊 **Stats**
+Olá, me chamo **Igor Mendes de Mattos Borges**, sou de Bauru SP, Brasil e atualmente sou pessoa estudante na Trybe.
 
-<img align='left'   width="300" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> <img src="https://i.imgur.com/qpFBbmO.gif/100x50" width="350px"/>
+**Atualmente estou em busca de:**
+
+  <img align="right" alt="GIF" src="https://i.imgur.com/qpFBbmO.gif/100x50" width="400px" />
+
+- 👨🏽‍💻 Me desenvolver como programador.
+- 💼 Busco uma oportunidade no mercado para aplicar meus conhecimentos e iniciar essa longa caminhada como Dev.
+<!-- - 📝  -->
+
+<br />
+<br />
+
+**Linguagens e ferramentas:**  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</p>
+
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="igor-mendez" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendez&layout=compact&theme=graywhite&title_color=268bd2" alt="igor-mendez" />
+</p>
+
+<br />
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorMendez" alt="igor-mendez" /> </p>
+
+⭐️ Baseado em [johnatas-henrique](https://github.com/johnatas-henrique)
