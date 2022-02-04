@@ -18,7 +18,7 @@ Olá, me chamo **Igor Mendes de Mattos Borges**, sou de Bauru SP, Brasil e atual
 
 **Atualmente estou em busca de:**
 
-  <img align="right" alt="GIF" src="https://i.imgur.com/qpFBbmO.gif/100x50" width="400px" />
+
 
 - 👨🏽‍💻 Me desenvolver como programador.
 - 💼 Busco uma oportunidade no mercado para aplicar meus conhecimentos e iniciar essa longa caminhada como Dev.
