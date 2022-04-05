@@ -11,6 +11,11 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
+<a href="https://igormendes.com/" target="_blank" >
+  Meu Portfolio
+</a>
+
+
 <br />
 <br />
 
