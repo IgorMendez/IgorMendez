@@ -7,8 +7,8 @@
 <a href="https://www.facebook.com/igor.mendesdemattos/" target="_blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/igormm/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+<a href="https://www.linkedin.com/in/igormm/">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" target="_blank">
 </a>
 
 <a href="https://igormendes.com/" target="_blank" >
