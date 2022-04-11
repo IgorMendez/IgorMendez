@@ -47,8 +47,6 @@ Conheça um pouco do meu trabalho em: https://igormendes.com/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FReact_(JavaScript)&psig=AOvVaw0Vdq55UerJ_lxTmkUNnnGH&ust=1649796462817000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKjrn-_wjPcCFQAAAAAdAAAAABAD" alt="express" width="40" height="40"/> 
-</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
