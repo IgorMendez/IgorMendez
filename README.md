@@ -19,14 +19,18 @@
 <br />
 <br />
 
-Olá, me chamo **Igor Mendes de Mattos Borges**, sou de Bauru SP, Brasil e atualmente sou pessoa estudante na Trybe.
+Sou apaixonado por tecnologia, trabalhei em diversas áreas antes de me encontrar na programação, já fui vendedor, projetista elétrico e cozinheiro. 
+Em minha última ocupação ajudei a gerenciar a empresa da família, trabalhei com estoque, financeiro, treinamento de equipe e tudo que uma empresa precisa para funcionar.
+Vejo hoje a importância de tudo que aprendi e como isso irá influenciar positivamente em minha caminhada como programador.
+
+Conheça um pouco do meu trabalho em: https://igormendes.com/
 
 **Atualmente estou em busca de:**
 
 
 
 - 👨🏽‍💻 Me desenvolver como programador.
-- 💼 Busco uma oportunidade no mercado para aplicar meus conhecimentos e iniciar essa longa caminhada como Dev.
+- 💼 Busco uma oportunidade no mercado para trabalhar como full-stack.
 <!-- - 📝  -->
 
 <br />
