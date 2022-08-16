@@ -27,8 +27,8 @@ Conheça um pouco do meu trabalho em: https://igormendes.com/
 
 
 
-- 👨🏽‍💻 Me desenvolver como programador.
-- 💼 Busco uma oportunidade no mercado para trabalhar como full-stack.
+- 👨🏽‍💻 Me desenvolver como programador;
+- 💼 Buscando uma oportunidade no mercado.
 <!-- - 📝  -->
 
 <br />
