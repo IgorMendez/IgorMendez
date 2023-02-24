@@ -11,9 +11,6 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" target="_blank">
 </a>
 
-<a href="https://igormendes.com/" target="_blank" >
-  Meu Portfolio
-</a>
 
 
 <br />
@@ -21,7 +18,7 @@
 
 Sou apaixonado por tecnologia, trabalhei em diferentes áreas antes de me encontrar na programação. Minhas experiências são desde vendedor, projetista elétrico, sous chef e administrador da empresa da minha família. Hoje busco combinar o que aprendi com todas as experiências profissionais anteriores e com o que aprendi na Trybe para criar soluções inovadoras para os clientes e empresas.
 
-Conheça um pouco do meu trabalho em: https://igormendes.com/
+
 
 **Atualmente estou em busca de:**
 
