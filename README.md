@@ -13,17 +13,9 @@
 <br />
 <br />
 
-Sou apaixonado por tecnologia, trabalhei em diferentes áreas antes de me encontrar na programação. Minhas experiências são desde vendedor, projetista elétrico, sous chef e administrador da empresa da minha família. Hoje busco combinar o que aprendi com todas as experiências profissionais anteriores e com o que aprendi na Trybe para criar soluções inovadoras para os clientes e empresas.
+As a technology enthusiast, I've explored various fields before finding my calling in programming. My previous experiences include working as a salesperson, electrical designer, and even a cook. In my most recent role, I assisted in managing the family business, where I gained valuable experience in inventory management, finance, team training, and other aspects of running a successful company.
 
-
-
-**Atualmente estou em busca de:**
-
-
-
-- 👨🏽‍💻 Me desenvolver como programador;
-- 💼 Buscando uma oportunidade no mercado.
-<!-- - 📝  -->
+I recognize the significance of these experiences and how they have prepared me for my journey as a programmer. I believe my diverse background has provided me with a unique perspective and problem-solving skills that I can bring to any project. I am eager to continue learning and growing in this field, and I am excited about the possibilities that lie ahead.
 
 <br />
 <br />
