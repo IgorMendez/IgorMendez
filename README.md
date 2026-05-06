@@ -7,7 +7,7 @@ AI Systems Engineer • Distributed Systems • Realtime AI • FastAPI • Angu
 <br />
 
 <p align="center">
-  Building scalable AI systems focused on realtime processing, semantic search, distributed architectures and autonomous AI pipelines.
+Building scalable AI systems focused on realtime processing, semantic search, distributed architectures and autonomous AI pipelines.
 </p>
 
 <br />
@@ -37,7 +37,7 @@ Software engineer focused on AI systems, distributed architectures and realtime 
 
 Currently working on scalable platforms involving semantic analysis, multimodal processing, vector search and autonomous AI orchestration using FastAPI, Angular, PostgreSQL, Redis and distributed workers.
 
-Main areas of interest:
+### Main areas of interest
 
 - Artificial Intelligence
 - Distributed Systems
@@ -56,16 +56,22 @@ Main areas of interest:
 ## Projects
 
 ### ISelf
-Distributed AI platform focused on semantic analysis, multimodal data processing and autonomous AI pipelines.
 
-Built with FastAPI, Angular, PostgreSQL, Redis and distributed workers for realtime communication, vector search, semantic indexing and scalable AI workflows.
+Distributed AI platform for semantic analysis and multimodal data processing.
+
+Focused on autonomous AI pipelines capable of processing text, audio and structured data through distributed orchestration, realtime communication and semantic indexing.
+
+Built with FastAPI, Angular, PostgreSQL, Redis and distributed workers for scalable AI workflows, vector search, embeddings and realtime processing.
 
 ---
 
 ### Nexus Cidadão
+
 GovTech platform for social assistance management focused on municipalities and public sector workflows.
 
 Designed for CRAS, CREAS and socio-assistance operations with emphasis on digital records, case management, LGPD compliance and realtime operational scalability.
+
+Built using FastAPI, Angular, PostgreSQL and distributed services for secure data management and scalable operational workflows.
 
 <br />
 <br />
@@ -73,27 +79,25 @@ Designed for CRAS, CREAS and socio-assistance operations with emphasis on digita
 ## Technologies
 
 <p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/>
 </p>
 
 <br />
@@ -101,18 +105,17 @@ Designed for CRAS, CREAS and socio-assistance operations with emphasis on digita
 
 ## GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="igor-mendez" />
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&show_icons=true&theme=transparent&hide_border=true&title_color=268bd2&icon_color=268bd2&text_color=ffffff" alt="GitHub stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendez&layout=compact&theme=graywhite&title_color=268bd2" alt="igor-mendez" />
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendez&layout=compact&theme=transparent&hide_border=true&title_color=268bd2&text_color=ffffff" alt="Top languages" />
 </p>
 
-<br />
 <br />
 <br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IgorMendez" alt="igor-mendez" />
+  <img src="https://komarev.com/ghpvc/?username=IgorMendez&style=flat-square" alt="igor-mendez" />
 </p>
