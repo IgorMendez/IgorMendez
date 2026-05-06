@@ -1,49 +1,118 @@
-<a href="https://www.instagram.com/igor_m_m/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://www.facebook.com/igor.mendesdemattos/" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/igormm/">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" target="_blank">
+<h1 align="center">Igor Mattos</h1>
+
+<h3 align="center">
+AI Systems Engineer • Distributed Systems • Realtime AI • FastAPI • Angular • Semantic Search
+</h3>
+
+<br />
+
+<p align="center">
+  Building scalable AI systems focused on realtime processing, semantic search, distributed architectures and autonomous AI pipelines.
+</p>
+
+<br />
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/igormm/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
+<a href="https://www.instagram.com/igor_m_m/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a>
 
+<a href="https://www.facebook.com/igor.mendesdemattos/" target="_blank">
+  <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
+</a>
+
+</div>
 
 <br />
 <br />
 
-As a technology enthusiast, I've explored various fields before finding my calling in programming. My previous experiences include working as a salesperson, electrical designer, and even a cook. In my most recent role, I assisted in managing the family business, where I gained valuable experience in inventory management, finance, team training, and other aspects of running a successful company.
+## About
 
-I recognize the significance of these experiences and how they have prepared me for my journey as a programmer. I believe my diverse background has provided me with a unique perspective and problem-solving skills that I can bring to any project. I am eager to continue learning and growing in this field, and I am excited about the possibilities that lie ahead.
+Software engineer focused on AI systems, distributed architectures and realtime processing.
 
+Currently working on scalable platforms involving semantic analysis, multimodal processing, vector search and autonomous AI orchestration using FastAPI, Angular, PostgreSQL, Redis and distributed workers.
+
+Main areas of interest:
+
+- Artificial Intelligence
+- Distributed Systems
+- Realtime Processing
+- Semantic Search & Embeddings
+- Autonomous AI Pipelines
+- Vector Databases
+- AI Infrastructure
+- Multimodal Processing
+- WebSockets
+- Scalable Backend Architectures
+
+<br />
+<br />
+
+## Projects
+
+### ISelf
+Distributed AI platform focused on semantic analysis, multimodal data processing and autonomous AI pipelines.
+
+Built with FastAPI, Angular, PostgreSQL, Redis and distributed workers for realtime communication, vector search, semantic indexing and scalable AI workflows.
+
+---
+
+### Nexus Cidadão
+GovTech platform for social assistance management focused on municipalities and public sector workflows.
+
+Designed for CRAS, CREAS and socio-assistance operations with emphasis on digital records, case management, LGPD compliance and realtime operational scalability.
+
+<br />
+<br />
+
+## Technologies
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+
+</p>
+
+<br />
+<br />
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="igor-mendez" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendez&layout=compact&theme=graywhite&title_color=268bd2" alt="igor-mendez" />
+</p>
+
+<br />
 <br />
 <br />
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://komarev.com/ghpvc/?username=IgorMendez" alt="igor-mendez" />
 </p>
-
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="igor-mendez" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendez&layout=compact&theme=graywhite&title_color=268bd2" alt="igor-mendez" />
-</p>
-
-<br />
-<br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IgorMendez" alt="igor-mendez" /> </p>
