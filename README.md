@@ -78,44 +78,61 @@ Built using FastAPI, Angular, PostgreSQL and distributed services for secure dat
 
 ## Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
+      <br />FastAPI
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="42" height="42" alt="Angular" />
+      <br />Angular
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" />
+      <br />Redis
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+      <br />Docker
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
+      <br />Linux
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+      <br />Git
+    </td>
+  </tr>
+</table>
 
-<br />
 <br />
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorMendez&show_icons=true&theme=transparent&hide_border=true&title_color=268bd2&icon_color=268bd2&text_color=ffffff" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendez&layout=compact&theme=transparent&hide_border=true&title_color=268bd2&text_color=ffffff" alt="Top languages" />
-</p>
+GitHub stats temporarily removed to avoid broken external image rendering from third-party services.
 
 <br />
-<br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IgorMendez&style=flat-square" alt="igor-mendez" />
+  <img src="https://komarev.com/ghpvc/?username=IgorMendez&style=flat-square" alt="Profile views" />
 </p>
